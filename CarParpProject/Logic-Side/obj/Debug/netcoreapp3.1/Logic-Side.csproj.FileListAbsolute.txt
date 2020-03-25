@@ -1,0 +1,5 @@
+C:\Users\Hannibal\Documents\GitHub\CarParkArdunio\CarParpProject\Logic-Side\bin\Debug\netcoreapp3.1\Logic-Side.deps.json
+C:\Users\Hannibal\Documents\GitHub\CarParkArdunio\CarParpProject\Logic-Side\bin\Debug\netcoreapp3.1\Logic-Side.dll
+C:\Users\Hannibal\Documents\GitHub\CarParkArdunio\CarParpProject\Logic-Side\obj\Debug\netcoreapp3.1\Logic-Side.csprojAssemblyReference.cache
+C:\Users\Hannibal\Documents\GitHub\CarParkArdunio\CarParpProject\Logic-Side\obj\Debug\netcoreapp3.1\Logic-Side.AssemblyInfoInputs.cache
+C:\Users\Hannibal\Documents\GitHub\CarParkArdunio\CarParpProject\Logic-Side\obj\Debug\netcoreapp3.1\Logic-Side.AssemblyInfo.cs
